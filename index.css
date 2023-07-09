@@ -302,6 +302,7 @@
   }
 
   .footer {
+    align-items: center;
     height: 6rem;
     justify-content: center;
     display: flex;
