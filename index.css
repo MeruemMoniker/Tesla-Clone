@@ -320,6 +320,7 @@
   }
 
   .foot {
+    display: inline-block;
     color: white;
     font-size: .75rem;
     text-transform: uppercase;
