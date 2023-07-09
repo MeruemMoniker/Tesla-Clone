@@ -306,6 +306,7 @@
     height: 3.5rem;
     justify-content: center;
     display: flex;
+    flex-wrap: wrap;
     background-color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
