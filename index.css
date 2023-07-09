@@ -312,7 +312,6 @@
   }
 
   .toes {
-    display: inline-block;
     font-weight: 900;
     color: white;
     font-size: .75rem;
@@ -321,7 +320,6 @@
   }
 
   .foot {
-    display: inline-block;
     color: white;
     font-size: .75rem;
     text-transform: uppercase;
