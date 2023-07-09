@@ -302,6 +302,7 @@
   }
 
   .footer {
+    height: 2rem;
     justify-content: center;
     display: flex;
     background-color: black;
