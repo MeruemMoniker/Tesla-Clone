@@ -302,7 +302,8 @@
   }
 
   .footer {
-    height: 2rem;
+    position: relative;
+    height: 5rem;
     justify-content: center;
     display: flex;
     background-color: black;
