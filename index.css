@@ -303,8 +303,14 @@
 
   .footer {
     background-color: black;
-    color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .toes {
+    color: white;
+    font-size: 1rem;
+    text-transform: uppercase;
+    margin: .5rem;
   }
 
   .above-bar-footer {
