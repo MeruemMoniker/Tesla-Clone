@@ -302,6 +302,7 @@
   }
 
   .footer {
+    justify-content: center;
     display: flex;
     background-color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -309,7 +310,7 @@
 
   .toes {
     color: white;
-    font-size: .25rem;
+    font-size: .5rem;
     text-transform: uppercase;
     margin: .5rem;
   }
