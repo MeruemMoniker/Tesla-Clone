@@ -330,7 +330,7 @@
 
   @media (width < 1000px) {
     .foot {
-        margin: .5rem 30rem;
+        margin: .5rem 10rem;
     }
     .footer {
         height: 7.5rem;
