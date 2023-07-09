@@ -302,8 +302,7 @@
   }
 
   .footer {
-    position: relative;
-    height: 5rem;
+    height: 6rem;
     justify-content: center;
     display: flex;
     background-color: black;
@@ -311,6 +310,7 @@
   }
 
   .toes {
+    font-weight: 700;
     color: white;
     font-size: .5rem;
     text-transform: uppercase;
