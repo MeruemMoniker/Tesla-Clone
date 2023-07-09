@@ -318,6 +318,10 @@
     margin: .5rem;
   }
 
+  .foot {
+    font-style: sans-serif;
+  }
+
   .above-bar-footer {
     margin-left: 3rem;
     display: flex;
