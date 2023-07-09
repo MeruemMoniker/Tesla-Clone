@@ -312,9 +312,9 @@
   }
 
   .toes {
-    font-weight: 900;
+    font-weight: 700;
     color: #fff;
-    font-size: .75rem;
+    font-size: .6rem;
     text-transform: uppercase;
     margin: .5rem .75rem .5rem .75rem;
   }
@@ -322,7 +322,7 @@
   .foot {
     color: #fff;
     display: block;
-    font-size: .75rem;
+    font-size: .6rem;
     text-transform: uppercase;
     margin: .5rem;
     font-weight: 200;
