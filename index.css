@@ -326,6 +326,12 @@
     font-weight: 200;
   }
 
+  @media (width < 500px) {
+    .foot {
+        margin: .5rem auto;
+    }
+  }
+
   .above-bar-footer {
     margin-left: 3rem;
     display: flex;
