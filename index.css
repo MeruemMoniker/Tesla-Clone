@@ -311,6 +311,7 @@
   }
 
   .toes {
+    display: inline-block;
     font-weight: 900;
     color: white;
     font-size: .75rem;
