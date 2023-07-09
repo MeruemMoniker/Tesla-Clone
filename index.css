@@ -321,7 +321,7 @@
 
   .foot {
     color: white;
-    display: inline-block;
+    display: block;
     font-size: .75rem;
     text-transform: uppercase;
     margin: .5rem;
