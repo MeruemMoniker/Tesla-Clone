@@ -340,6 +340,10 @@
     }
   }
 
+  .footer-a {
+    text-decoration: none;
+  }
+
   .above-bar-footer {
     margin-left: 3rem;
     display: flex;
