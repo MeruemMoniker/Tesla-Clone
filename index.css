@@ -303,7 +303,7 @@
 
   .footer {
     align-items: center;
-    height: 6rem;
+    height: 3.5rem;
     justify-content: center;
     display: flex;
     background-color: black;
@@ -331,6 +331,9 @@
   @media (width < 1000px) {
     .foot {
         margin: .5rem 30rem;
+    }
+    .footer {
+        height: 7.5rem;
     }
   }
 
