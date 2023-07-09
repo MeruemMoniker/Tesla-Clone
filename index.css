@@ -316,7 +316,7 @@
     color: #fff;
     font-size: .75rem;
     text-transform: uppercase;
-    margin: .25rem .75rem 1rem .75rem;
+    margin: .5rem .75rem 1rem .75rem;
   }
 
   .foot {
@@ -331,6 +331,9 @@
   @media (width < 1000px) {
     .foot {
         margin: .5rem 44% 0 44%;
+    }
+    .toes {
+        margin: .25rem .75rem 1rem .75rem;
     }
     .footer {
         height: 7.5rem;
