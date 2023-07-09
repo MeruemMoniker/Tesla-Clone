@@ -343,7 +343,7 @@
   }
 
   .footer-a {
-    text-decoration: none;
+    color: inherit;
   }
 
   .above-bar-footer {
