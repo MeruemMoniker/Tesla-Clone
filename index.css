@@ -328,7 +328,7 @@
 
   @media (width < 1000px) {
     .foot {
-        margin: .5rem auto;
+        margin: .5rem 10rem;
     }
   }
 
