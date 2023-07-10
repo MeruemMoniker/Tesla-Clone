@@ -582,7 +582,8 @@
     height: 3.5rem;
     top: 0px;
     left: 0px;
-    position: fixed
+    position: fixed;
+    background-color: transparent
   }
 
   nav > ul {
