@@ -620,7 +620,6 @@
   
   nav > ul > li:hover {
     border-radius: 3px;
-    background-color: blue;
     color: white;
     cursor: pointer;
   }
