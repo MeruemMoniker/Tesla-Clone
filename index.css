@@ -342,6 +342,12 @@
     }
   }
 
+  .s1 {
+    width:100%;
+    height:1000px;
+    background-color: lightblue;
+  }
+
   .footer-a {
     text-decoration: none;
     color: inherit;
