@@ -107,11 +107,6 @@
     position: fixed
   }*/
 
-  section {
-    display: block;
-    padding: 8rem 5rem;
-  }
-
   #about {
     padding: 8rem 0;
   }
